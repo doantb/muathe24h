@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476916899406",
+    "project_id": "muathe24h-186402"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476916899406:android:7e6244ffd3ad1e1f",
+        "android_client_info": {
+          "package_name": "com.example.windows10now.muathe24h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476916899406-m8k490v46nh97ll6153tld288qvtfeak.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "476916899406-61od7fsjc8ob3j8lnorh1jq2aprcj148.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windows10now.muathe24h",
+            "certificate_hash": "7df760ff1dd18aedc41158f5fef1c5a00d4b8878"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjtA_eeG8EEjxIk8CTxr_tJSJICDCYfFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

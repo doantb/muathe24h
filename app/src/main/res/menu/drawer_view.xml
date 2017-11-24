@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_fragment"
+            android:icon="@drawable/ic_home_menu"
+            android:checked="true"
+            android:title="Trang Chủ" />
+        <item
+            android:id="@+id/nav_discount_fragment"
+            android:icon="@drawable/ic_discount"
+            android:title="Chiết khâu" />
+        <item
+            android:id="@+id/nav_info_bank_fragment"
+            android:icon="@drawable/ic_bank"
+            android:title="Tài khoản ngân hàng" />
+        <item
+            android:id="@+id/nav_contact_fragment"
+            android:icon="@drawable/ic_contact"
+            android:title="Liên hệ" />
+        <item
+            android:id="@+id/nav_logout_fragment"
+            android:icon="@drawable/ic_logout"
+            android:title="Đăng xuất" />
+    </group>
+
+</menu>

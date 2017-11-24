@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Muathe24h</string>
+    <string name="login">Login</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="muoinghin">10.000đ</string>
+    <string name="haimuoi">20.000đ</string>
+    <string name="nammuoi">50.000đ</string>
+    <string name="mottram">100.000đ</string>
+    <string name="haitram">200.000đ</string>
+    <string name="namtram">500.000đ</string>
+    <string name="bamuoi">30.000đ</string>
+    <string name="batram">300.000đ</string>
+    <string name="toast_must_enter_password">You must enter password</string>
+    <string name="toast_must_enter_user_name">you must enter user name</string>
+    <string name="infoUser">Thông tin tài khoản</string>
+</resources>
